@@ -1,7 +1,7 @@
  👋 Здраствуйте
  
  Меня зовут Eкатерина Соболева, я тестировщик QA Engineer
- 
+ в: Баг-репорты
  ⚡Мои навыки:
 -  Ручное функциональное тестирование
 -  Составление тест-кейсов (TestRail, Testlink, Test IT)
@@ -18,5 +18,5 @@
 
 <!---
 EkaterinaSoboleva1986/EkaterinaSoboleva1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**You can click the Preview link to take a look at your changes.
+--->**
